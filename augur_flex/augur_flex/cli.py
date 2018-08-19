@@ -4,12 +4,12 @@
 import sys
 import click
 
+import augur_flex.run
 
 @click.command()
 def main(args=None):
     """Console script for augur_flex."""
-    click.echo("Replace this message by putting your code into "
-               "augur_flex.cli.main")
+    augur_flex.run.main(args)
     click.echo("See click documentation at http://click.pocoo.org/")
     return 0
 
