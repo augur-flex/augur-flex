@@ -4,7 +4,7 @@ Disclaimer: This is just some automation around provisioning and using
 the Augur framework (https://github.com/AugurProject) on arbitrary
 "ethereum-compatible" blockchains. I am not an Augur developer and the
 documentation and support at https://github.com/AugurProject are
-generally more useful and this repo.
+generally more useful than this repo.
 
 
 ## Instructions
