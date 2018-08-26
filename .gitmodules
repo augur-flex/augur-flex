@@ -1,6 +1,3 @@
-[submodule "subs/augur-core"]
-	path = subs/augur-core
-	url = git@github.com:augur-flex/augur-core.git
 [submodule "subs/augur-node"]
 	path = subs/augur-node
 	url = git@github.com:augur-flex/augur-node.git
