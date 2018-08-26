@@ -6,4 +6,4 @@ cd subs/augur-ui
 rm -fr node_modules && \
     npm install && \
     yarn link augur.js && \
-    yn dev
+    yarn dev

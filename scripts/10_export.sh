@@ -8,3 +8,4 @@ export USE_NORMAL_TIME=true
 
 # export ETHEREUM_HTTP=http://172.17.0.1:8545
 export ETHEREUM_HTTP=http://127.0.0.1:8545
+export GAS_PRICE_IN_NANOETH=2
