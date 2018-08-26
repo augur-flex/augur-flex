@@ -5,5 +5,6 @@ SOURCE_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
 cd subs/augur-node
 rm -fr node_modules
 npm install
-yarn link augur.js
+rm -fr node_modules/augur.js
+ln -s `pwd`/../augur.js node_modules/augur.js
 npm run clean-start
