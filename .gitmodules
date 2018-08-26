@@ -7,3 +7,6 @@
 [submodule "subs/augur.js"]
 	path = subs/augur.js
 	url = git@github.com:augur-flex/augur.js.git
+[submodule "subs/parity-poa-playground"]
+	path = subs/parity-poa-playground
+	url = git@github.com:augur-flex/parity-poa-playground.git
