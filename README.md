@@ -31,3 +31,9 @@ deploy to.
 ```bash
 ./scripts/50_launch_augur_node.sh
 ```
+
+### Start augur-ui
+
+```bash
+./scripts/60_launch_augur_ui.sh
+```
